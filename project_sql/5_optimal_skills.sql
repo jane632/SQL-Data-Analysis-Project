@@ -9,6 +9,8 @@ in data analysis.
 */
 
 WITH skills_demand AS (
+
+
    SELECT skills_dim.skill_id,
           skills_dim.skills,
        COUNT(skills_job_dim.job_id) AS demand_count
