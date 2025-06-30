@@ -1,6 +1,6 @@
 --Update contents of this later
 # Introduction
-Exploring the Data Job Market: This project dives deep into data analyst roles, highlighting the top-paying💸positions, the most in-demand 🔥skills, and where high demand intersects with lucrative salaries in the field of data analytics.
+Exploring the Data Job Market: This project dives deep into data analyst roles, highlighting the top-paying positions, the most in-demand skills, and where high demand intersects with lucrative salaries in the field of data analytics.
 
 "Curious about SQL queries? Explore them here: [project_sql_folder](/project_sql/)
 
